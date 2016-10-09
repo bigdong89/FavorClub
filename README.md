@@ -8,16 +8,16 @@ About
 预览
 ------
 主界面
-![github](https://raw.githubusercontent.com/*/master/art/1.png "github")  
+![github](/art/1.png "github")  
 
 频道管理界面
-![github](https://raw.githubusercontent.com/*/master/art/7.png "github")  
+![github](/art/7.png "github")  
 
 新闻阅读界面
-![github](https://raw.githubusercontent.com/*/master/art/9.png "github")  
+![github](/art/9.png "github")  
 
 新闻图片浏览界面
-![github](https://raw.githubusercontent.com/*/master/art/11.png "github")  
+![github](/art/11.png "github")  
 
 开发工具
 ------
